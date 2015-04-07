@@ -1,0 +1,2 @@
+# FastAttributedString
+Fast create NSAttributedString
